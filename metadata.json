@@ -1,0 +1,6 @@
+{
+  "name": "G-SPOT - Real-Time Gym Crowd & Workout Spotter",
+  "description": "Real-time gym crowd tracking and equipment-aware workout planner for Indian fitness centers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
